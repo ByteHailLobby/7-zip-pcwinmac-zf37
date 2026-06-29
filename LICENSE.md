@@ -1,4 +1,4 @@
-# 
+# Ultime 7-Zip plugins pour Mac OS | Officiel 7-Zip plugins pour PC Windows. Avec mise à jour des pilotes et intégration d'API — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
